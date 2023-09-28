@@ -1,8 +1,5 @@
-<<<<<<< HEAD
- # CA-MKD
 
-This repo covers the implementation of the following ICASSP 2022 paper:
-Confidence-Aware Multi-Teacher Knowledge Distillation
+ # DMKD
 
 Besides, some multi-teacher compared approaches such as AVER-MKD, EBKD, AEKD are contained in this repo together.
 
@@ -32,24 +29,5 @@ where the flags are explained as:
   
 The run scripts for all comparison methods can be found in `scripts/run.sh`.
 
-## Citation
-If you find this repository useful, please consider citing the following paper:
-```
-@article{zhang2021confidence,
-  title={Confidence-Aware Multi-Teacher Knowledge Distillation},
-  author={Zhang, Hailin and Chen, Defang and Wang, Can},
-  journal={arXiv preprint arXiv:2201.00007},
-  year={2021}
-}
-
-
-
-```
-
-## Acknowledgement
 
 The implementation of compared methods are mainly based on the author-provided code and the open-source benchmark https://github.com/HobbitLong/RepDistiller. 
-=======
-# MDKD
-my MDKD code
->>>>>>> 706a47cbd67086ebb03435a1509cae5d8302abf0
