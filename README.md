@@ -1,5 +1,5 @@
 
- # DMKD
+ # MDKD
 
 Besides, some multi-teacher compared approaches such as AVER-MKD, EBKD, AEKD are contained in this repo together.
 
